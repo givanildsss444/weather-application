@@ -1,0 +1,23 @@
+.container-moreInfo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 900px;
+    height: 150px;
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 0.206);
+    border-radius: 20px;
+    gap: 20px;    
+
+}
+
+.week{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.303);
+    border-radius: 10px;
+    width: 100px;
+    height: 70px;
+
+}

@@ -1,0 +1,23 @@
+.containerData{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 900px;
+    height: 250px;
+    background-color: rgba(255, 255, 255, 0.206);
+    border-radius: 20px;
+}
+
+.date{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    gap: 20px;
+    background-color: rgba(255, 255, 255, 0.303);
+    border-radius: 20px;
+
+}
